@@ -23,6 +23,8 @@ call textobj#user#plugin('comment', {
      \   'big': {
      \     'select-a-function': 'textobj#comment#select_big_a',
      \     'select-a': 'aC',
+     \     'select-i-function': 'textobj#comment#select_a',
+     \     'select-i': 'iC',
      \   }
      \ })
 
